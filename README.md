@@ -8,7 +8,7 @@ This repository showcases my work in constructing a powerful analytics dashboard
 
 ## 🔍 Features
 
-Proprietary Data Visualization: The analytics presented on this dashboard are generated from proprietary information, ensuring confidentiality and security. While the Power BI file (PBIX) containing the raw data and configurations won't be made public, I'm excited to share dashboard images to demonstrate the creative aspects, design proficiency, and analytical competence involved in this project.
+**Proprietary Data Visualization:** The analytics presented on this dashboard are generated from proprietary information, ensuring confidentiality and security. While the Power BI file (PBIX) containing the raw data and configurations won't be made public, I'm excited to share dashboard images to demonstrate the creative aspects, design proficiency, and analytical competence involved in this project.
 
 **Interactive Elements:**  Dive into the analytics with interactive filters and buttons that allow users to customize their view. This dynamic functionality enhances the user experience and facilitates deeper analysis.
 
@@ -16,7 +16,6 @@ Proprietary Data Visualization: The analytics presented on this dashboard are ge
 
 **Note on Confidentiality**
 The PBIX file, being proprietary, will not be shared publicly to protect sensitive project details. However, I've included a variety of dashboard images in the repository to provide a glimpse into the dashboard's aesthetics and functionality.
-
 
 ## 🛠️ Technologies Used:
 
